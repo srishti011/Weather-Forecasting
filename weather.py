@@ -2,7 +2,7 @@ import requests
 import os
 from datetime import datetime
 
-user_api = '2726e8a040275ec5d6e797603da76e34'
+user_api = '2726e8a040275ec5d6e797603da76e48'
 
 location = input("Enter the city name: ")
 
